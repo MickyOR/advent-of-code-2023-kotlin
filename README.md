@@ -1,25 +1,17 @@
-# advent-of-code-2023-kotlin
+# Advent of Code 2023
 
-Welcome to the Advent of Code[^aoc] Kotlin project created by [mickyor][github] using the [Advent of Code Kotlin Template][template] delivered by JetBrains.
+My solutions to the [Advent of Code 2023][aoc2023] puzzles, written in [Kotlin][kotlin] using their [template].
 
-In this repository, mickyor is about to provide solutions for the puzzles using [Kotlin][kotlin] language.
-
-If you're stuck with Kotlin-specific questions or anything related to this template, check out the following resources:
-
-- [Kotlin docs][docs]
-- [Kotlin Slack][slack]
-- Template [issue tracker][issues]
-
+| Day | Problem                                            | Solution                                                                              |
+|-----|----------------------------------------------------|---------------------------------------------------------------------------------------|
+| 1   | [Trebuchet?!](https://adventofcode.com/2023/day/1) | [Day01](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day01.kt) |
 
 [^aoc]:
-    [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
-    Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-five days.
-    You can solve the puzzle and provide an answer using the language of your choice.
+[Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
+Every year since then, beginning on the first day of December, a programming puzzle is published every day for twenty-five days.
+You can solve the puzzle and provide an answer using the language of your choice.
 
+[aoc2023]: https://adventofcode.com/2023
 [aoc]: https://adventofcode.com
-[docs]: https://kotlinlang.org/docs/home.html
-[github]: https://github.com/mickyor
-[issues]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template/issues
 [kotlin]: https://kotlinlang.org
-[slack]: https://surveys.jetbrains.com/s3/kotlin-slack-sign-up
 [template]: https://github.com/kotlin-hands-on/advent-of-code-kotlin-template
