@@ -10,6 +10,7 @@ My solutions to the [Advent of Code 2023][aoc2023] puzzles, written in [Kotlin][
 | 4   | [Scratchcards](https://adventofcode.com/2023/day/4)                    | [Day04](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day04.kt) |
 | 5   | [If You Give A Seed A Fertilizer](https://adventofcode.com/2023/day/5) | [Day05](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day05.kt) |
 | 6   | [Wait For It](https://adventofcode.com/2023/day/6)                     | [Day06](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day06.kt) |
+| 7   | [Camel Cards](https://adventofcode.com/2023/day/7)                     | [Day07](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day07.kt) |
 
 [^aoc]:
 [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
