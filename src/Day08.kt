@@ -1,6 +1,6 @@
 /*
 * It's expected to look for patterns or properties in the input as part of
-* solving the problem. But for part 2 of this day it's just too much haha
+* solving the problem. But for part 2 of this day it's just too much :|
 * */
 
 fun main() {
