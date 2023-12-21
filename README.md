@@ -14,8 +14,7 @@ My solutions to the [Advent of Code 2023][aoc2023] puzzles, written in [Kotlin][
 | 8   | [Haunted Wasteland](https://adventofcode.com/2023/day/8)               | [Day08](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day08.kt) - a bit annoying |
 | 9   | [Mirage Maintenance](https://adventofcode.com/2023/day/9)              | [Day09](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day09.kt)                  |
 | 10  | [Pipe Maze](https://adventofcode.com/2023/day/10)                      | [Day10](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day10.kt)                  |
-
-
+| 11  | [Cosmic Expansion](https://adventofcode.com/2023/day/11)               | [Day11](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day11.kt)                  |
 
 [^aoc]:
 [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
