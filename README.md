@@ -17,7 +17,7 @@ My solutions to the [Advent of Code 2023][aoc2023] puzzles, written in [Kotlin][
 | 11  | [Cosmic Expansion](https://adventofcode.com/2023/day/11)               | [Day11](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day11.kt)                  |
 | 12  | [Hot Springs](https://adventofcode.com/2023/day/12)                    | [Day12](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day12.kt)                  |
 | 13  | [Point of Incidence](https://adventofcode.com/2023/day/13)             | [Day13](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day13.kt)                  |
-
+| 14  | [Parabolic Reflector Dish](https://adventofcode.com/2023/day/14)       | [Day14](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day14.kt)                  |
 
 [^aoc]:
 [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
