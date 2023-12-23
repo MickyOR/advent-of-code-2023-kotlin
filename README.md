@@ -19,6 +19,7 @@ My solutions to the [Advent of Code 2023][aoc2023] puzzles, written in [Kotlin][
 | 13  | [Point of Incidence](https://adventofcode.com/2023/day/13)             | [Day13](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day13.kt)                  |
 | 14  | [Parabolic Reflector Dish](https://adventofcode.com/2023/day/14)       | [Day14](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day14.kt)                  |
 | 15  | [Lens Library](https://adventofcode.com/2023/day/15)                   | [Day15](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day15.kt)                  |
+| 16  | [The Floor Will Be Lava](https://adventofcode.com/2023/day/16)         | [Day16](https://github.com/MickyOR/advent-of-code-2023-kotlin/blob/main/src/Day16.kt)                  |
 
 [^aoc]:
 [Advent of Code][aoc] – An annual event of Christmas-oriented programming challenges started December 2015.
